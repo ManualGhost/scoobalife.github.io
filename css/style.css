@@ -225,15 +225,15 @@ header{
 	padding:0 !important;
 	margin:0 0 0 40px;
 }
-.logo a {
-	position:relative;
-	background: url(../images/logo.png) no-repeat 0 0;
-	height:49px;
-	width:203px;
-	overflow:hidden;
-	text-indent:-99em;
-	display:block;
-}
+	.logo a {
+		position: relative;
+		background: url(../images/logo.png) no-repeat 0 0;
+		height: 100px;
+		width: 205px;
+		overflow: hidden;
+		text-indent: -99em;
+		display: block;
+	}
 /********************** Slider ************************/
 .mp-slider .items {display:none;}
 .mp-slider {
