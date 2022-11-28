@@ -519,12 +519,12 @@ section#content {
 
 /******************** Footer ******************/
 footer {
-	color:#7f7f7f;
-	font-size:14px;
-	overflow:hidden;
-	padding:28px 40px;
-	background:#000;
-	margin:0 10px;
+	color: #0047ab;
+	font-size: 14px;
+	overflow: hidden;
+	padding: 28px 40px;
+	background: #fff;
+	margin: 0 10px;
 }
 	footer a {
 		color:#fff;
