@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css"
+    "\\css",
+    "\\js"
   ],
-  "SelectedNode": "\\css\\style.css",
+  "SelectedNode": "\\js\\jquery-1.7.1.min.js",
   "PreviewInSolutionExplorer": false
 }
